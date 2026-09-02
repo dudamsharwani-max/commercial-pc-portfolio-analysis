@@ -1,0 +1,5 @@
+duckdb>=1.5,<2
+pandas>=2.2,<4
+numpy>=2,<3
+plotly>=6,<8
+streamlit>=1.50,<2
