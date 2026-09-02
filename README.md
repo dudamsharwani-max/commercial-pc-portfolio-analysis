@@ -4,7 +4,7 @@ Portfolio profitability analysis of a three-line commercial insurance book —
 Business Owner's Policy, General Liability, and Professional Liability —
 covering $137.9M written premium across 11,193 policy terms, valued 30 June 2026.
 
-**[▶ Live dashboard](https://YOUR-APP-URL.streamlit.app)** · Python · SQL (DuckDB) · Streamlit · Plotly
+**[▶ Live dashboard](https://sharwani-pc-portfolio.streamlit.app/)** · Python · SQL (DuckDB) · Streamlit · Plotly
 
 ---
 
